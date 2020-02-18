@@ -33,7 +33,7 @@
 
 ## 🖋 Requisitos e Regras
 
-### Requisitos funcionais
+#### Requisitos funcionais
 
 | Requisitos funcionais | Descrição |
 | --- | --- |
@@ -53,11 +53,25 @@
 | RF-14 | O sistema deve permitir que aconteça um match perfeito entre dois usuários. |
 | RF-15 | O sistema deve permitir que os usuários conversem via Chat após ocorrer um match. |
 
-### Regras de negócio
+#### Regras de negócio
 
----
+| Regras de Negócio | Descrição |
+| --- | --- |
+| RN-1 | O usuário deverá fazer um primeiro cadastro fornecendo informações básicas, e algumas informações do jogo como, 3 CAMPEÕES que mais joga e 2 ROTAS que mais joga. |
+| RN-2 | O usuário só podera fazer edições no seu perfil caso esteja autenticado. |
+| RN-3 | O usuário podera recuperar sua senha e confirmar sua conta via token no email. |
+| RN-4 | O usuário podera fazer requisições a API da Riot sem estar autenticado. |
+| RN-5 | O usuário deve fazer as requisições a API da Riot pelo nome de algum Invocador apenas. |
+| RN-6 | O usuário podera atualizar o perfil de algum Invocador, para refazer a requisição a API da Riot. |
+| RN-7 | O usuário deverá estar logado na aplicação para utilizar os recursos do Duozada. |
+| RN-8 | O sistema deve fornecer para o usuário a opção de cadastrar suas melhores Jogadas quando acessar o Duozada, ou pular a opção. |
+| RN-9 | O usuário podera listar e detalhar o perfil de outros jogadores na plataforma, assim como suas Jogadas. |
+| RN-10 | O usuário podera dar um Like no perfil de outros jogadores, caso o outro jogador tambem de um like no perfil do mesmo, ira ocorrer um Match. |
+| RN-11 | Quando ocorrer um Match entre usuários, o sistema devera validar se, se trata de um Match comum (RN 10) ou um Match Perfeito (RN 12). |
+| RN-12 | Após um Match, o sistema deverá validar caso haja a opção de ocorrer um Match perfeito, baseando-se pelas rotas de cada jogador e campeões jogados. |
+| RN-13 | Apenas após um Match, os usuários teram a opção de conversarem via Chat dentro da aplicação. |
 
-### Requisitos funcionais não tecnologicos
+#### Requisitos funcionais não tecnologicos
 
 ---
 
