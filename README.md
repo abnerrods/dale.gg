@@ -88,17 +88,15 @@
 | RNFT 5 | O sistema deve armazenar as informações vindas da API da Riot dentro do banco de dados local (PostgreSQL). |
 | RNFT 6 | Like e Dislike serão apenas funcionalidades usando o método Store para armazenar essas informações em um Usuário. |
 | RNFT 7 | O chat de texto pós match será implementado usando socket.io. |
-| RNFT 8 | O cadastro de SummonerMatchlist deve conter: id, lane, gameId, championId, platformId, queue, role, season. |
-| RNFT 9 | O cadastro de MatchDto deve conter: id, seasonId, queueId, gameId, gameVersion, platformId, gameMode, mapId, gameType, team. |
-| RNFT 10 | O cadastro de ParticipantsDto deve conter: id, accountId, summonerId, gameId, teamId, spell1Id, spell2Id, highestArchievedSeasonTier. |
-| RNFT 11 | O cadastro de ParticipantsStatsDto deve conter: id, participantId, perk0, perk1, perk2, perk3, perk4, perk5, item0, item1, item2, item3, item4, item5, item6, kills, deaths, assists, win, doubleKills, tripleKills, quadraKills, pentaKills, champLevel. |
-| RNFT 12 | Like e Dislike serão apenas funcionalidades usando o método Store para armazenar essas informações em um Usuário. |
-| RNFT 13 | Cada usuário tera duas rotas e três campeões que jogam, essas informações seram usadas para o sistema decidir entre o Match ou o Match perfeito. |
-| RNFT 14 | O chat de texto pós match sera implementado usando socket.io. |
 
 ## 📊 Diagramas
 
----
+#### Casos de Uso
+
+<h1 align="center">
+    <img alt="DaleggDocs" title="#delicinhas" src=".github/usecase.png" width="400px" />
+</h1>
+
 
 ## 🎲 MER
 
