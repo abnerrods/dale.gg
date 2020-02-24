@@ -95,14 +95,14 @@
 
 <h1 align="center">
     <img alt="DaleggDocs" title="#delicinhas" src=".github/usecase.png" width="200px" />
-    <p>[Clique para ver](https://github.com/jlenon7/dale.gg-omni/wiki#casos-de-uso)</p>
+    <a href="https://github.com/jlenon7/dale.gg-omni/wiki#casos-de-uso">Clique para ver</a>
 </h1>
 
 #### Classes
 
 <h1 align="center">
     <img alt="DaleggDocs" title="#delicinhas" src=".github/classdiagram.png" width="200px" />
-    <p>[Clique para ver](https://github.com/jlenon7/dale.gg-omni/wiki#classes)</p>
+    <a href="https://github.com/jlenon7/dale.gg-omni/wiki#classes">Clique para ver</a>
 </h1>
 
 ## 🎲 MER
