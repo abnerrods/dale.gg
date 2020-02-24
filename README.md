@@ -91,7 +91,11 @@
 
 ## 📊 Diagramas
 
-#### Casos de Uso
+<b>
+<h3 align="center">
+    Casos de uso
+</h3>
+</b>
 
 <h1 align="center">
     <img alt="DaleggDocs" title="#delicinhas" src=".github/usecase.png" width="200px" />
@@ -102,7 +106,11 @@
     </p>
 </b>
 
-#### Classes
+<b>
+<h3 align="center">
+    Classes
+</h3>
+</b>
 
 <h1 align="center">
     <img alt="DaleggDocs" title="#delicinhas" src=".github/classdiagram.png" width="200px" />
