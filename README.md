@@ -94,7 +94,7 @@
 #### Casos de Uso
 
 <h1 align="center">
-    <img alt="DaleggDocs" title="#delicinhas" src=".github/usecase.png" width="400px" />
+    <img alt="DaleggDocs" title="#delicinhas" src=".github/Dale.gg Diagrams.pdf" width="400px" />
 </h1>
 
 
