@@ -94,9 +94,16 @@
 #### Casos de Uso
 
 <h1 align="center">
-    <img alt="DaleggDocs" title="#delicinhas" src=".github/Dale.gg Diagrams.pdf" width="400px" />
+    <img alt="DaleggDocs" title="#delicinhas" src=".github/usecase.png" width="200px" />
+    <p>[Clique para ver](https://github.com/jlenon7/dale.gg-omni/wiki#casos-de-uso)</p>
 </h1>
 
+#### Classes
+
+<h1 align="center">
+    <img alt="DaleggDocs" title="#delicinhas" src=".github/classdiagram.png" width="200px" />
+    <p>[Clique para ver](https://github.com/jlenon7/dale.gg-omni/wiki#classes)</p>
+</h1>
 
 ## 🎲 MER
 
