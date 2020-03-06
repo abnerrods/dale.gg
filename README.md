@@ -123,6 +123,15 @@
 
 ## 🎲 MER
 
+<h1 align="center">
+    <img alt="DaleggDocs" title="#delicinhas" src=".github/database.png" width="200px" />
+</h1>
+<b>
+    <p align="center">
+       <a href="https://github.com/jlenon7/dale.gg-omni/wiki#MER">Clique para ver</a>
+    </p>
+</b>
+
 ---
 
 ## 🤔 Como contribuir
