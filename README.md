@@ -84,7 +84,7 @@
 | RNFT 1 | Um script será criado para realizar um pré cadastro dos Campeões na aplicação . |
 | RNFT 2 | O sistema deve fazer uso da API da Riot Games para buscar as informações dos Invocadores. |
 | RNFT 3 | O banco de dados a ser utilizado terá o padrão objeto-relacional. |
-| RNFT 4 | A aplicação irá usar o design pattern MVC. |
+| RNFT 4 | A aplicação irá usar o architectural pattern MVC. |
 | RNFT 5 | O sistema deve armazenar as informações vindas da API da Riot dentro do banco de dados local (PostgreSQL). |
 | RNFT 6 | Like e Dislike serão apenas funcionalidades usando o método Store para armazenar essas informações em um Usuário. |
 | RNFT 7 | O chat de texto pós match será implementado usando socket.io. |
